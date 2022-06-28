@@ -34,7 +34,7 @@ namespace ClassMetodDemo
             {
                 Console.WriteLine("Person:" + i.Name + i.Surname);
                 Console.WriteLine("Telephone:" + i.telephone);
-                 Console.WriteLine("Adress:"+i.Adress);
+                Console.WriteLine("Adress:"+i.Adress);
                 Console.WriteLine("*******");
             }
 
